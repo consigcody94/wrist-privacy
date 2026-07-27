@@ -1,9 +1,33 @@
 ---
 layout: default
-title: Hexvault — Privacy Policy
+title: Hexvault — Support & Privacy
 ---
 
-# Hexvault — Privacy Policy
+# Hexvault — Support
+
+## Contact
+
+For help, questions, or feedback about Hexvault: **rockvillecodymaryland@gmail.com**
+
+Include your watchOS/iOS versions and the feature involved when reporting a problem. Response times vary.
+
+## Frequently asked questions
+
+**Where is my Hexvault data stored?**
+Entirely on your Apple Watch and iPhone. Hexvault has no servers, accounts, or analytics — nothing you do in the app leaves your devices.
+
+**Why does a feature ask for Health, Location, Microphone, or Motion access?**
+Each tool requests only the permission it needs, the first time you use it (for example, Compass and Find My Car use location; Voice Notes uses the microphone). You can change any permission later in Settings or the Health app.
+
+**My watch data isn't appearing on my iPhone.**
+Both apps share data through the system App Group. Make sure the iPhone companion app has been opened at least once, then relaunch the watch app. Restarting both devices resolves most sync gaps.
+
+**How do I delete my data?**
+Delete the item in the app, or delete the app itself — all Hexvault data is stored locally, so removing the app removes everything (subject to your device backups).
+
+---
+
+# Privacy Policy
 
 **Effective date:** 2026-05-17
 **Last updated:** 2026-05-17
